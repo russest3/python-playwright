@@ -1,0 +1,398 @@
+Name: The Station Apartments
+Address: 5959 Broadway, Bronx, NY 10463
+Link: https://www.apartments.com/the-station-apartments-bronx-ny/2vjnkfb/
+Price: $1,750 - $2,300
+Beds: Studio - 1 Bed
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Refrigerator</span>
+<span>Range</span>
+<span>Microwave</span>
+<span>CableReady</span>
+</p>
+
+Name: The Equestrian At Pelham Parkway
+Address: 1680 Pelham Pkwy S, Bronx, NY 10461
+Link: https://www.apartments.com/the-equestrian-at-pelham-parkway-bronx-ny/80g1zt0/
+Price: $1,700 - $2,650
+Beds: Studio - 2 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Dishwasher</span>
+<span>Refrigerator</span>
+<span>Kitchen</span>
+<span>In Unit Washer &amp; Dryer</span>
+</p>
+
+Name: Halletts Point
+Address: 10 Halletts Pt, Astoria, NY 11102
+Link: https://www.apartments.com/halletts-point-astoria-ny/1j2c5h6/
+Price: $2,760 - $6,042
+Beds: Studio - 2 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Pool</span>
+<span>Dishwasher</span>
+<span>Refrigerator</span>
+<span>Kitchen</span>
+</p>
+
+Name: The Bold
+Address: 2701 Jackson Ave, Long Island City, NY 11101
+Link: https://www.apartments.com/the-bold-long-island-city-ny/vh5hy3f/
+Price: $3,600 - $8,695
+Beds: Studio - 3 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>In Unit Washer &amp; Dryer</span>
+<span>Stainless Steel Appliances</span>
+<span>Package Service</span>
+<span>Hardwood Floors</span>
+<span>Elevator</span>
+</p>
+
+Name: 1515 Surf Ave
+Address: 1515 Surf Ave, Brooklyn, NY 11224
+Link: https://www.apartments.com/1515-surf-brooklyn-ny/65t9ffv/
+Price: $3,140 - $3,455
+Beds: 1-2 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Pool</span>
+<span>Refrigerator</span>
+<span>Kitchen</span>
+<span>In Unit Washer &amp; Dryer</span>
+</p>
+
+Name: The Riverdale Tower
+Address: 3745 Riverdale Ave, The Bronx, NY 10463
+Link: https://www.apartments.com/the-riverdale-tower-the-bronx-ny/db9r3kj/
+Price: $2,200 - $4,750
+Beds: Studio - 2 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Dishwasher</span>
+<span>Heat</span>
+<span>Courtyard</span>
+<span>Elevator</span>
+<span>Laundry Facilities</span>
+</p>
+
+Name: View 34
+Address: 401 E 34th St, New York, NY 10016
+Link: https://www.apartments.com/view-34-new-york-ny/938hg25/
+Price: $3,280 - $8,399
+Beds: Studio - 3 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Refrigerator</span>
+<span>Kitchen</span>
+<span>In Unit Washer &amp; Dryer</span>
+<span>Walk-In Closets</span>
+</p>
+
+Name: 10 Hanover Square
+Address: 110-124 Pearl St, New York, NY 10005
+Link: https://www.apartments.com/10-hanover-square-new-york-ny/1wxy6j5/
+Price: $3,530 - $6,999
+Beds: Studio - 3 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Kitchen</span>
+<span>Walk-In Closets</span>
+<span>Clubhouse</span>
+<span>Maintenance on site</span>
+<span>High-Speed Internet</span>
+</p>
+
+Name: 95 Wall St
+Address: 95 Wall St, New York, NY 10005
+Link: https://www.apartments.com/95-wall-new-york-ny/b815kt8/
+Price: $3,469 - $7,493
+Beds: Studio - 3 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Refrigerator</span>
+<span>In Unit Washer &amp; Dryer</span>
+<span>Walk-In Closets</span>
+<span>High-Speed Internet</span>
+</p>
+
+Name: The Heritage House
+Address: 1660 Madison Ave, New York, NY 10029
+Link: https://www.apartments.com/the-heritage-house-new-york-ny/wxgrrzh/
+Price: $1,650 - $2,280
+Beds: Studio
+Amenities: <p class="property-amenities">
+<span>Kitchen</span>
+<span>In Unit Washer &amp; Dryer</span>
+<span>Heat</span>
+<span>High-Speed Internet</span>
+<span>Elevator</span>
+<span>Laundry Facilities</span>
+<span>Concierge</span>
+</p>
+
+Name: The Reserve
+Address: 212 E 125th St, New York, NY 10035
+Link: https://www.apartments.com/the-reserve-new-york-ny/3w6dcsd/
+Price: $1,584 - $4,107
+Beds: Studio - 4 Beds
+Amenities: <p class="property-amenities">
+<span>Fitness Center</span>
+<span>Clubhouse</span>
+<span>High-Speed Internet</span>
+<span>Private Bathroom</span>
+<span>Individual Locking Bedrooms</span>
+</p>
+
+Name: 21 Chelsea
+Address: 120 W 21st St, New York, NY 10011
+Link: https://www.apartments.com/21-chelsea-new-york-ny/d10ll7l/
+Price: $4,322 - $5,629
+Beds: Studio - 5 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Kitchen</span>
+<span>Walk-In Closets</span>
+<span>Balcony</span>
+<span>High-Speed Internet</span>
+</p>
+
+Name: The Greenpoint
+Address: 21 India St, Brooklyn, NY 11222
+Link: https://www.apartments.com/the-greenpoint-brooklyn-ny/pnhp7hs/
+Price: $4,159 - $6,399
+Beds: Studio - 3 Beds
+Amenities: <p class="property-amenities">
+<span>Fitness Center</span>
+<span>Pool</span>
+<span>Dishwasher</span>
+<span>Refrigerator</span>
+<span>Kitchen</span>
+<span>Balcony</span>
+<span>Range</span>
+</p>
+
+Name: MODA
+Address: 153-30 89th Ave, Jamaica, NY 11432
+Link: https://www.apartments.com/moda-jamaica-ny/kl2p7vb/
+Price: $3,522
+Beds: 2 Beds
+Amenities: <p class="property-amenities">
+<span>Pets Allowed</span>
+<span>Fitness Center</span>
+<span>Dishwasher</span>
+<span>Refrigerator</span>
+<span>Kitchen</span>
+<span>Walk-In Closets</span>
+</p>
+
+Name: PLG
+Address: 123 Linden Blvd, Brooklyn, NY 11226
+Link: https://www.apartments.com/plg-brooklyn-ny/qznx2yw/
+Price: $2,562 - $4,689
+Beds: Studio - 2 Beds
+Amenities: <p class="property-amenities">
+<span>Fitness Center</span>
+<span>Pool</span>
+<span>Dishwasher</span>
+<span>Refrigerator</span>
+<span>In Unit Washer &amp; Dryer</span>
+<span>Walk-In Closets</span>
+</p>
+
+Name: Hillside Tower
+Address: 14735 95th Ave, Jamaica, NY 11435
+Link: https://www.apartments.com/hillside-tower-jamaica-ny/d8cj57j/
+Price: $2,000 - $3,200
+Beds: Studio - 2 Beds
+Amenities: <p class="property-amenities">
+<span>Fitness Center</span>
+<span>Dishwasher</span>
+<span>Package Service</span>
+<span>Elevator</span>
+<span>Laundry Facilities</span>
+</p>
+
+Name: Waterline Square
+Address: 400 W 61st St, New York, NY 10023
+Link: https://www.apartments.com/waterline-square-new-york-ny/ewlwn1n/
+Price: $7,024 - $27,995
+Beds: 1-4 Beds
+Amenities: None
+
+Name: Yorkshire Towers
+Address: 305-315 E 86th St, New York, NY 10028
+Link: https://www.apartments.com/yorkshire-towers-new-york-ny/bzg2v49/
+Price: $4,200 - $14,249
+Beds: Studio - 3 Beds
+Amenities: None
+
+Name: 7 Dekalb
+Address: 1 Dekalb Ave, Brooklyn, NY 11201
+Link: https://www.apartments.com/7-dekalb-brooklyn-ny/rztegz0/
+Price: $3,702 - $6,701
+Beds: 1-2 Beds
+Amenities: None
+
+Name: 18 India St
+Address: 18 India St, Brooklyn, NY 11222
+Link: https://www.apartments.com/18-india-st-brooklyn-ny/4x37m0k/
+Price: $2,821 - $4,395
+Beds: Studio - 2 Beds
+Amenities: None
+
+Name: Parkchester
+Address: 2000 E Tremont Ave, Bronx, NY 10462
+Link: https://www.apartments.com/parkchester-bronx-ny/e3s3rfm/
+Price: $1,335 - $3,000
+Beds: Studio - 3 Beds
+Amenities: None
+
+Name: Serrano
+Address: 1735 York Ave, New York, NY 10128
+Link: https://www.apartments.com/serrano-new-york-ny/ghtdhdz/
+Price: $4,995 - $8,600
+Beds: 1-3 Beds
+Amenities: None
+
+Name: Marquis Apartments
+Address: 150 E 34th St, New York, NY 10016
+Link: https://www.apartments.com/marquis-apartments-new-york-ny/73ymnfy/
+Price: $3,699 - $4,953
+Beds: Studio - 1 Bed
+Amenities: None
+
+Name: Pod Pads
+Address: 400 W 42nd St, New York, NY 10036
+Link: https://www.apartments.com/pod-pads-new-york-ny/c6e9d5d/
+Price: $4,500 - $9,000
+Beds: 1-2 Beds
+Amenities: None
+
+Name: The Octagon
+Address: 888 Main St, New York, NY 10044
+Link: https://www.apartments.com/the-octagon-new-york-ny/9w36sk7/
+Price: $3,050 - $7,040
+Beds: Studio - 3 Beds
+Amenities: None
+
+Name: 605 W 112th St
+Address: 605 W 112th St, New York, NY 10025
+Link: https://www.apartments.com/605-w-112th-st-new-york-ny/d3d8s8j/
+Price: $3,200 - $3,700
+Beds: 1 Bed
+Amenities: None
+
+Name: National at 888 6th Ave Furnished Apartments
+Address: 888 6th Ave, New York, NY 10001
+Link: https://www.apartments.com/national-at-888-6th-ave-furnished-apartments-new-york-ny/0smfmv0/
+Price: $4,000 - $14,970
+Beds: Studio - 2 Beds
+Amenities: None
+
+Name: The Max
+Address: 606 W 57th St, New York, NY 10019
+Link: https://www.apartments.com/the-max-new-york-ny/24f34qb/
+Price: $3,433 - $8,195
+Beds: Studio - 3 Beds
+Amenities: None
+
+Name: Park Towers South
+Address: 315 W 57th St, New York, NY 10019
+Link: https://www.apartments.com/park-towers-south-new-york-ny/xc7j4tn/
+Price: $4,199 - $4,999
+Beds: 1 Bed
+Amenities: None
+
+Name: Gateway Battery Park City
+Address: 345-395 South End Ave, New York, NY 10280
+Link: https://www.apartments.com/gateway-battery-park-city-new-york-ny/rlcl211/
+Price: $3,683 - $13,613
+Beds: Studio - 3 Beds
+Amenities: None
+
+Name: TERRA
+Address: 45-19 Davis St, Long Island City, NY 11101
+Link: https://www.apartments.com/terra-long-island-city-ny/thsdmnc/
+Price: $3,725 - $7,100
+Beds: Studio - 2 Beds
+Amenities: None
+
+Name: Luxe By Russos
+Address: 241-15 Northern Blvd, Flushing, NY 11362
+Link: https://www.apartments.com/luxe-by-russos-flushing-ny/5y0844m/
+Price: $3,200 - $5,000
+Beds: Studio - 2 Beds
+Amenities: None
+
+Name: The Exo
+Address: 26-38 21st St, Astoria, NY 11102
+Link: https://www.apartments.com/the-exo-astoria-ny/9krqbl6/
+Price: $3,250 - $3,450
+Beds: 1 Bed
+Amenities: None
+
+Name: The Vitagraph
+Address: 1277 E 14th St, Brooklyn, NY 11230
+Link: https://www.apartments.com/the-vitagraph-brooklyn-ny/21jytlc/
+Price: $2,716 - $3,208
+Beds: 1-2 Beds
+Amenities: None
+
+Name: Barclays II - B14 - 535 Carlton Ave
+Address: 535 Carlton Ave, Brooklyn, NY 11238
+Link: https://www.apartments.com/barclays-ii-b14-535-carlton-ave-brooklyn-ny/vrqvrrg/
+Price: $2,169 - $3,320
+Beds: Studio - 3 Beds
+Amenities: None
+
+Name: Barclays I - B3 - 38 6th Ave
+Address: 38 6th Ave, Brooklyn, NY 11217
+Link: https://www.apartments.com/barclays-i-b3-38-6th-ave-brooklyn-ny/xw2jtcp/
+Price: $2,121 - $3,287
+Beds: Studio - 3 Beds
+Amenities: None
+
+Name: Windsor Court
+Address: 155 E 31st St, New York, NY 10016
+Link: https://www.apartments.com/windsor-court-new-york-ny/q3856xz/
+Price: $4,755 - $8,025
+Beds:                                     1-2 Beds
+                                
+Amenities: None
+
+Name: VIA 57 WEST
+Address: 625 W 57th St, New York, NY 10019
+Link: https://www.apartments.com/via-57-west-new-york-ny/7tc4rkx/
+Price: $3,988 - $6,480
+Beds:                                     Studio - 2 Beds
+                                
+Amenities: None
+
+Name: 444 W 58th St
+Address: 444 W 58th St, New York, NY 10019
+Link: https://www.apartments.com/444-w-58th-st-new-york-ny/7twrmww/
+Price: $4,000 - $6,900
+Beds:                                     2-3 Beds
+                                
+Amenities: None
+
+Name: EOS
+Address: 100 W 31st St, New York, NY 10001
+Link: https://www.apartments.com/eos-new-york-ny/zls36xz/
+Price: $4,460 - $10,200
+Beds:                                     Studio - 3 Beds
+                                
+Amenities: None
+

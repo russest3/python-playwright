@@ -1,29 +1,49 @@
-import re
-from playwright.sync_api import expect, Page
-from pprint import pprint
+from bs4 import BeautifulSoup
+import requests
 
-def test_get_apartments(page: Page):
-    page.goto('https://www.apartments.com/new-york-ny/')
-    results = page.locator('//*[@id="placardContainer"]/ul')
-    parsed = []
-    combined_text = ""
+class apartment:
+    def __init__(self, name, address, link, price, beds, amenities):
+        self.name = name
+        self.address = address
+        self.link = link
+        self.price = price
+        self.beds = beds
+        self.amenities = amenities
+        with open('parsed_items.csv', 'w') as file:
+            file.write("name, address, link, price, beds, amenities\n")
+        
 
-    for line in results.element_handles():
-        spans = line.query_selector_all("li section div[class='property-info'] div[class='content-wrapper'] a[class='property-link'] p[class='property-amenities'] span")
-        for span in spans:
-            combined_text = span.inner_text() + ", "
-        parsed.append({
-            "Name": line.query_selector('li header div a div span').inner_text(),
-            "Address": line.query_selector("li header div a div[class='property-address js-url']").text_content(),
-            "Price": line.query_selector("li section div[class='property-info'] div div a p").text_content(),
-            "Bedrooms": line.query_selector("li section div[class='property-info'] div div a p[class='property-beds']").text_content(),
-            "Amenities": combined_text
-            
-            # "username": box.query_selector(".tw-link").inner_text(),
-            # "viewers": box.query_selector(".tw-media-card-stat").inner_text(),
-            # # tags are not always present:
-            # "tags": box.query_selector(".tw-tag").inner_text() if box.query_selector(".tw-tag") else None,
-        })
+    def display(self):
+        print(f"Name: {self.name}, Address: {self.address}, Link: {self.link}, Price: {self.price}, Beds: {self.beds}, Amenities: {self.amenities}")
     
-    print(parsed)
+    def write_all_to_file(self, list):
+        with open('parsed_item_list.txt', 'a') as file:
+            file.write(list)
 
+def test_get_apartments():
+    all_listings = list()
+    # response = requests.get('https://www.apartments.com/new-york-ny/')
+
+    # with open('downloaded.html', 'w') as file:
+    #     file.write(str(response.text))
+
+    with open('downloaded.html', 'r', encoding='utf-8') as file:
+        html_content = file.read()
+    
+    soup = BeautifulSoup(html_content, 'html.parser')
+    items = soup.find_all('article')
+
+    for i in items:
+        name = i.find('span', class_='js-placardTitle title').get_text()
+        address = i.find('div', class_='property-address js-url').get_text()
+        link = i.find('a', class_='property-link')["href"]
+        price = i.find('p', class_='property-pricing').get_text()
+        beds = i.find('p', class_='property-beds').get_text().strip('\n')
+        amenities = i.find(attrs={"class": "property-amenities"})        
+        listing = apartment(name=name, address=address, link=link, price=price, beds=beds, amenities=amenities)
+        # all_listings.append(name, address, link, price, beds, amenities)
+        all_listings.append(str(name) + ', ' + address + ', ' + link + ', ' + price + ', ' + beds + ', ' + amenities + '\n')
+    
+    with open('parsed_item_list.csv', 'a') as file:            
+        file.write(all_listings)
+    
