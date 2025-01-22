@@ -29,12 +29,12 @@ return Array.from(results).map((el) => el.getAttribute("href"))
 """
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False)
-    page = browser.new_page()
-    page.goto(url)
-    urls = page.evaluate("() => {" + script + "}")
+    # browser = p.chromium.launch(headless=False)
+    # page = browser.new_page()
+    # page.goto(url)
+    # urls = page.evaluate("() => {" + script + "}")
 
-    # urls = [None, '/pratt-medium-shoulder-bag/35S4S3FS2I.html?astc=true', None, '/pratt-small-signature-logo-convertible-shoulder-bag/35S4S3FM5V.html?astc=true', None, '/pratt-medium-shoulder-bag/35S4G3FS2I.html?astc=true&dwvar_35S4G3FS2I_color=0001', None, '/pratt-small-signature-logo-shoulder-bag/35S4G3FM5B.html?astc=true&dwvar_35S4G3FM5B_color=2605', None, '/pratt-medium-signature-logo-shoulder-bag/35S4G3FS2V.html?astc=true&dwvar_35S4G3FS2V_color=2605', None, '/pratt-small-signature-logo-shoulder-bag/35S4G3FM5V.html?astc=true&dwvar_35S4G3FM5V_color=3260', None, '/pratt-small-shoulder-bag/35S4G3FM5T.html?astc=true&dwvar_35S4G3FM5T_color=0001', None, '/pratt-medium-signature-logo-shoulder-bag/35T4S3FS2V.html?astc=true&dwvar_35T4S3FS2V_color=1999', None, '/pratt-small-signature-logo-shoulder-bag/35R5S3FM5B.html?astc=true&dwvar_35R5S3FM5B_color=1999', None, '/jet-set-travel-extra-small-logo-top-zip-tote-bag/35T9GTVT0B.html?astc=true&dwvar_35T9GTVT0B_color=0001', None, '/mercer-medium-pebbled-leather-crossbody-bag/35F3SM9M2L.html?astc=true', None, '/mercer-medium-pebbled-leather-crossbody-bag/35S1GM9M2L.html?astc=true&dwvar_35S1GM9M2L_color=2610', None, None, None, None, None, None, None, None, None, None, None, None, None]
+    urls = [None, '/pratt-medium-shoulder-bag/35S4S3FS2I.html?astc=true', None, '/pratt-small-signature-logo-convertible-shoulder-bag/35S4S3FM5V.html?astc=true']
     new_urls = [x for x in urls if x != None]
     new_urls = ["https://www.michaelkors.com" + item for item in new_urls]
     # print(new_urls)
