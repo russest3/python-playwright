@@ -15,6 +15,7 @@ client = OpenAI(
 messages = []
 while True:
     response = client.chat.completions.create(
+        # model="Janus-Pro-7B",
         model="deepseek-chat",
         messages=[
             {"role": "system", "content": "You are a helpful assistant"},
