@@ -15,8 +15,8 @@ client = OpenAI(
 messages = []
 while True:
     response = client.chat.completions.create(
-        # model="Janus-Pro-7B",
-        model="deepseek-chat",
+        model="Janus-Pro-7B",
+        # model="deepseek-chat",
         messages=[
             {"role": "system", "content": "You are a helpful assistant"},
             {"role": "user", "content": prompt},
@@ -31,4 +31,4 @@ while True:
         'content': prompt
     })
 
-    print(response.choices[0].message.content)
+print(response.choices[0].message.content)
