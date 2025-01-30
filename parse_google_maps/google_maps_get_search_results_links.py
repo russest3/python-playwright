@@ -1,4 +1,8 @@
 from playwright.sync_api import sync_playwright
+from playwright.sync_api import Mouse
+from playwright.sync_api import Keyboard
+from playwright.sync_api import Page
+from time import sleep
 
 script = """
 function waitCss(selector, n=1, require=false, timeout=5000) {
@@ -22,6 +26,15 @@ return Array.from(results).map((el) => el.getAttribute("href"))
 
 def search(query, page):
     url = f"https://www.google.com/maps/search/{query.replace(' ', '+')}/?hl=en"
-    page.goto(url)
+    page.goto(url)    
+    page.mouse.click(375, 78)
+    page.keyboard.press('PageDown')
+    sleep(2)
+    page.keyboard.press('PageDown')
+    sleep(2)
+    page.keyboard.press('PageDown')
+    sleep(2)
+    page.keyboard.press('PageDown')
+    sleep(5)
     urls = page.evaluate("() => {" + script + "}")
     return urls or [url]
