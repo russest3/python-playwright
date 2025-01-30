@@ -16,7 +16,7 @@ function waitCss(selector, n=1, require=false, timeout=5000) {
   }
 }
 
-var results = waitCss("div.Nv2PK a.hfpxzc, div.tH5CWc a.hfpxzc, div.THOPZb a.hfpxzc", n=10, require=false);
+var results = waitCss("div.CpccDe a.hfpxzc, div.Nv2PK a.hfpxzc, div.tH5CWc a.hfpxzc, div.THOPZb a.hfpxzc", n=10, require=false);
 return Array.from(results).map((el) => el.getAttribute("href"))
 """
 
